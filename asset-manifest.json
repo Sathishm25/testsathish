@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testsathish/static/css/main.bc3203c8.css",
+    "main.js": "/testsathish/static/js/main.797a41ee.js",
+    "static/media/img2.png": "/testsathish/static/media/img2.7cd366ef8f254b15331b.png",
+    "static/media/img1.jpg": "/testsathish/static/media/img1.d6d8d3dbddb725dff26d.jpg",
+    "index.html": "/testsathish/index.html",
+    "main.bc3203c8.css.map": "/testsathish/static/css/main.bc3203c8.css.map",
+    "main.797a41ee.js.map": "/testsathish/static/js/main.797a41ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3203c8.css",
+    "static/js/main.797a41ee.js"
+  ]
+}
